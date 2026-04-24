@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-721hus.agnaf.fr/sitemap.xml
